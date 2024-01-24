@@ -24,7 +24,7 @@ Add your projects and team members' details.
 Deploy the portfolio to your preferred hosting service.
 
 Demo:
-nexusinfo.netlify.com
+https://nexusinfo.netlify.app/
 
 Screenshots:
 [Include screenshots or GIFs showcasing different sections of the portfolio]
