@@ -4,10 +4,15 @@ Create a stunning and fully responsive portfolio for your company with this HTML
 Key Features:
 
 Responsive Design: Ensure a seamless experience on desktops, tablets, and mobile devices.
+
 Customizable: Easily modify content, colors, and styles to match your company's branding.
+
 Project Showcase: Present your work in a visually appealing manner to impress potential clients or collaborators.
+
 Team Section: Introduce your team with individual profiles and roles.
+
 Contact Form: Include a contact form for seamless communication with visitors.
+
 How to Use:
 
 Clone the repository to your local machine.
