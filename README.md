@@ -16,11 +16,15 @@ Contact Form: Include a contact form for seamless communication with visitors.
 How to Use:
 
 Clone the repository to your local machine.
+
 Customize the HTML and CSS files according to your company's information and style.
+
 Add your projects and team members' details.
+
 Deploy the portfolio to your preferred hosting service.
+
 Demo:
-[Link to Live Demo]
+nexusinfo.netlify.com
 
 Screenshots:
 [Include screenshots or GIFs showcasing different sections of the portfolio]
