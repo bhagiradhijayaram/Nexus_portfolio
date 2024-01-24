@@ -27,4 +27,5 @@ Demo:
 https://nexusinfo.netlify.app/
 
 Screenshots:
-[Include screenshots or GIFs showcasing different sections of the portfolio]
+![Screenshot (170)](https://github.com/bhagiradhijayaram/Nexus_portfolio/assets/116064700/3290d300-c6c5-4632-9004-f2e65f8bc505)
+
